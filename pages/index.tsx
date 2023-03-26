@@ -19,21 +19,17 @@ export default function Home() {
             <code className={styles.code}>Welcome to my personal website</code>
           </p>
           <div>
-            <div>By{" Ihsan"}</div>
+            <div>By{" Hardy"}</div>
           </div>
         </div>
 
         <div className={styles.center}>
           <div className={styles.card}>
-            <h1 className={inter.className}>{'</>'}</h1>
+            <h1 className={inter.className}>{"</>"}</h1>
           </div>
         </div>
 
-      
-
-        <div className={styles.description}>
-          Build with love 
-        </div>
+        <div className={styles.description}>Build with love</div>
       </main>
     </>
   );
